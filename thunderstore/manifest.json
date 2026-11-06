@@ -1,0 +1,9 @@
+{
+  "name": "LootScanner",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Press H to scan your room and reveal its loot and values. A checklist tracks what you've scanned and what's left on the map. Only you need it.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}

@@ -8,7 +8,7 @@ Find out what's in a room before you search it.
 ## Who needs it
 **Only you.** It works as host or guest, and other players don't need it. Items you scan do appear on their maps.
 
-## Config (`gabe.lootscanner.cfg`, or r2modman's Config editor)
+## Config (`flelk.lootscanner.cfg`, or r2modman's Config editor)
 | Setting | Default | |
 | --- | --- | --- |
 | ScanKey | H | key that scans the room |

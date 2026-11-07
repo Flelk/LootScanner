@@ -1,6 +1,6 @@
 {
   "name": "LootScanner",
-  "version_number": "1.0.0",
+  "version_number": "2.0.0",
   "website_url": "",
   "description": "Press H to scan your room and reveal its loot and values. A checklist tracks what you've scanned and what's left on the map. Only you need it.",
   "dependencies": [
